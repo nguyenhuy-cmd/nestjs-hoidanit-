@@ -21,12 +21,14 @@
   },
   "dependencies": {
     "@nestjs/common": "9.0.0",
+    "@nestjs/config": "^2.3.4",
     "@nestjs/core": "9.0.0",
     "@nestjs/mapped-types": "^1.2.2",
     "@nestjs/mongoose": "^9.2.2",
     "@nestjs/platform-express": "9.0.0",
+    "dotenv": "^18.0.4",
     "ejs": "6.0.1",
-    "mongoose": "^9.10.2",
+    "mongoose": "^7.8.12",
     "reflect-metadata": "0.1.13",
     "rxjs": "7.2.0"
   },
